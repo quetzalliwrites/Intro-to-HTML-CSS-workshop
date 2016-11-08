@@ -2,7 +2,9 @@
 This workshop is hosted by She Codes Now: https://www.meetup.com/She-Codes-Now/ 
 
 Instructor: Alejandra 
+
 @alequetzalli
+
 alejandra_quetzalli@yahoo.com 
 
 
