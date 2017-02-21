@@ -1,11 +1,8 @@
-# Intro-to-HTML-CSS-workshop
+# Intro to HTML/CSS: workshop
 This workshop is hosted by She Codes Now: https://www.meetup.com/She-Codes-Now/ 
 
-Instructor: Alejandra 
+Instructor: @alequetzalli
 
-@alequetzalli
-
-alejandra_quetzalli@yahoo.com 
 
 
 # Installation of a Code Editor:
